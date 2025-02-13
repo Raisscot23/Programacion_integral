@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nombre": "Space Wolves",
+        "precio": 300.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/1.jpg"
+    },   
+    {
+        "id": 2,
+        "nombre": "Raven Guard",
+        "precio": 320.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Imperial Fists",
+        "precio": 280.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/3.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Ultramarines",
+        "precio": 350.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/4.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Blood Angels",
+        "precio": 310.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/5.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Dark Angels",
+        "precio": 330.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/6.jpg"
+    },   
+    {
+        "id": 7,
+        "nombre": "Alpha Legion",
+        "precio": 290.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/7.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Iron Warriors",
+        "precio": 300.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/8.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Sons of Horus",
+        "precio": 295.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/9.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Iron Hands",
+        "precio": 310.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/10.png"
+    },
+    {
+        "id": 11,
+        "nombre": "Salamanders",
+        "precio": 325.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/11.jpg"
+    },   
+    {
+        "id": 12,
+        "nombre": "White Scars",
+        "precio": 340.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/12.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Night Lords",
+        "precio": 400.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/13.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Thousand Sons",
+        "precio": 275.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/14.png"
+    },
+    {
+        "id": 15,
+        "nombre": "Death Guard",
+        "precio": 290.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/15.png"
+    },
+    {
+        "id": 16,
+        "nombre": "Emperor's Children",
+        "precio": 315.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/16.jpg"
+    },   
+    {
+        "id": 17,
+        "nombre": "Word Bearers",
+        "precio": 330.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/17.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "World Eaters",
+        "precio": 310.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/18.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Black Templars",
+        "precio": 305.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/19.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Robute Guilliman",
+        "precio": 315.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/20.jpg"
+    }
+]
