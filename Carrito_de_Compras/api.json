@@ -1,0 +1,74 @@
+[
+    {
+        "precio": "$15.00",
+        "id": 1,
+        "title": "Swinkles",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/1.webp"
+    },
+    {
+        "precio": "$25.00",
+        "id": 2,
+        "title": "Kidner Sorpresa",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/2.webp"
+    },
+    {
+        "precio": "$10.00",
+        "id": 3,
+        "title": "Kinder Delice",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/3.webp"
+    },
+    {
+        "precio": "$5.00",
+        "id": 4,
+        "title": "Oreo Cakesters",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/4.webp"
+    },
+    {
+        "precio": "$15.00",
+        "id": 5,
+        "title": "Bocadines",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/5.webp"
+    },
+    {
+        "precio": "$10.00",
+        "id": 6,
+        "title": "Bubulubu",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/6.webp"
+    },
+    {
+        "precio": "$20.00",
+        "id": 7,
+        "title": "Nerds",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/7.jpg"
+    },
+    {
+        "precio": "$15.00",
+        "id": 8,
+        "title": "Chupa chup",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/8.jpg"
+    },
+    {
+        "precio": "$10.00",
+        "id": 9,
+        "title": "Ruffles",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/9.webp"
+    },
+    {
+        "precio": "$15.00",
+        "id": 10,
+        "title": "Doritos",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/10.webp"
+    },
+    {
+        "precio": "$10.00",
+        "id": 11,
+        "title": "Sweet tarts",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/11.jpg"
+    },
+    {
+        "precio": "$15.00",
+        "id": 12,
+        "title": "Jolly Rancher",
+        "thumbnailUrl": "http://warhammer40k.free.nf/img/imgs/12.jpg"
+    }
+]
