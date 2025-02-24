@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo/estilo.css">
+    <title>Radio</title>
+</head>
+<body>
+    <header>
+        <h1>Programas de radio</h1>
+    </header>
+
+    <nav>-
+        <a href="index_locutores.html">Locutores</a>
+        <a href="index.html">Cabinas</a>
+        <a href="index_generos.html">Géneros de Música</a>
+        <a href="index_frecuencias.html">Frecuencias</a>
+    </nav>
+
+    <div id="form">
+        <h2>Registrar un Programa de radio</h2>
+
+        <form action="guardar.php" method="post">
+            <input type="number" name="id_cabina" placeholder="Ide de la Cabina" required>
+            <input type="text" name="nombre" placeholder="Nombre" required>
+            <input type="text" name="ubicacion" placeholder="ubicacion" required>
+            <input type="number" name="capacidad" placeholder="capacidad" required>
+            <button type="submit">Registrar Cabina</button>
+        </form>
+
+    </div>
+</body>
+</html>
