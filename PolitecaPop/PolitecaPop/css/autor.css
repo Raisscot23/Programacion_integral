@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #d3d3d3;
+}
+
+.contenedor{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+    grid-row-gap: 5px ;
+    grid-column-gap: 5px ;
+}
+
+/*--------------------*/
+
+.lateral{
+    background-color: rgb(51, 51, 51);
+    width: 80%;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    border-right: solid black 5px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+#perfil{
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#foto_perfil{
+    width: 65%;
+    border-radius: 20%;
+    border: solid black 5px;
+}
+
+#informacion{
+    width: 95%;
+    padding: 15px;
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+}
