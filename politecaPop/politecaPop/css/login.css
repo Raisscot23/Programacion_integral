@@ -1,0 +1,51 @@
+form {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f5e9d3; /* Café claro */
+  border: 1px solid #c5a880;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.form-element {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  color: #5e3d2c; /* Marrón oscuro */
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #d6b78c;
+  background-color: #fffaf2;
+  color: #4a3524;
+  font-size: 16px;
+}
+
+input:focus {
+  outline: none;
+  border-color: #eac85b; /* Amarillo suave */
+  background-color: #fff7e0;
+}
+
+button {
+  background-color: #eac85b; /* Amarillo suave */
+  color: #5e3d2c;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #d6a531; /* Amarillo más oscuro */
+}

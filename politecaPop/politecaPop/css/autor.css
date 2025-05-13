@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Estilos generales */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Contenedor principal */
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Panel lateral */
+.lateral {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    max-width: 350px;
+    width: 100%;
+}
+
+/* Foto de perfil */
+#foto_perfil {
+    width: 70%;
+    object-fit: cover;
+    border: 3px solid #3498db;
+    margin-left: 57px;
+}
+
+/* Información */
+#informacion {
+    text-align: center;
+}
+
+#informacion h2 {
+    margin: 10px 0;
+    font-size: 20px;
+    color: #2c3e50;
+}
+
+#codigoqr {
+    width: 80%;
+}
+
+/*----------------------------*/
+
+h1 {
+    text-align: center;
+}
+
+.paleta {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem;
+    margin-bottom: 5%;
+}
+
+.color-box {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.color-swatch {
+    height: 100px;
+}
+
+.color-info {
+    padding: 1rem;
+    text-align: center;
+}
+
+.hex {
+    font-weight: bold;
+}
+
+/*----------------------------*/
+.SiteMap {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columnas iguales */
+    gap: 20px; /* espacio entre los elementos */
+    margin: 20px auto;
+    width: 90%; /* ajusta según necesites */
+    color: white;
+    justify-items: center; /* centra las cajas en su celda */
+}
+
+.siteMap-box {
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    width: 200px;
+    transition: 0.5s;
+}
+
+.siteMap-box:hover {
+    margin: 10px;
+}
+
+.SiteMap a{
+    color: white;
+}

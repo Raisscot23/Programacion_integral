@@ -1,0 +1,29 @@
+.contenedor {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  gap: 40px;
+  margin: 50px;
+}
+
+.tabla-imagenes {
+  border-collapse: collapse;
+}
+
+.tabla-imagenes td {
+  padding: 10px;
+}
+
+.tabla-imagenes img {
+  width: 250px; /* Tamaño aumentado */
+  height: 170px;
+  object-fit: cover;
+  border: 2px solid #333; /* Borde más visible */
+}
+
+.descripcion {
+  flex: 1;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+}

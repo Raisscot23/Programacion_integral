@@ -1,0 +1,43 @@
+footer {
+    width: 100%;
+    height: 25%;
+    background-color: #000000;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#redes {
+    padding: 10px;
+    justify-content: center;
+}
+
+#redes a {
+    width: 30px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#redes li {
+    display: inline-block;
+}
+
+#avisos li {
+    margin: 15px;
+    padding: 15px;
+    display: inline-block;
+}
+
+/*---------------------------------------*/
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/*---------------------------------------*/
+
+#autor:hover{
+    color: rgb(94, 94, 94);
+}
