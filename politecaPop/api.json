@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nombre": "Rostros",
+        "precio": 300.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img1.jpg"
+    },   
+    {
+        "id": 2,
+        "nombre": "Pintura a mano",
+        "precio": 320.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Cartas que dedicar",
+        "precio": 280.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Monedero de gato",
+        "precio": 350.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img4.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Mermelada",
+        "precio": 310.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img5.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Funko Maseta",
+        "precio": 330.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img6.png"
+    },   
+    {
+        "id": 7,
+        "nombre": "Bolso de gato",
+        "precio": 290.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img7.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Shampoo Artesanal",
+        "precio": 300.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img8.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Pintura Artesanal",
+        "precio": 295.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img9.png"
+    },
+    {
+        "id": 10,
+        "nombre": "Joyería",
+        "precio": 310.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img10.png"
+    },
+    {
+        "id": 11,
+        "nombre": "Pulseras",
+        "precio": 325.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img11.png"
+    },   
+    {
+        "id": 12,
+        "nombre": "Tazas navideñas",
+        "precio": 340.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img12.png"
+    },
+    {
+        "id": 13,
+        "nombre": "Lentes para gatos",
+        "precio": 400.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img13.png"
+    },
+    {
+        "id": 14,
+        "nombre": "Calcetas locas",
+        "precio": 275.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img14.png"
+    },
+    {
+        "id": 15,
+        "nombre": "Gnomos de navidad",
+        "precio": 290.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img15.png"
+    },
+    {
+        "id": 16,
+        "nombre": "Flores artificiales",
+        "precio": 315.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img16.png"
+    },   
+    {
+        "id": 17,
+        "nombre": "Cuadro de gatos",
+        "precio": 330.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img17.png"
+    },
+    {
+        "id": 18,
+        "nombre": "Bolso artesanal",
+        "precio": 310.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img18.png"
+    },
+    {
+        "id": 19,
+        "nombre": "Joyería temática",
+        "precio": 305.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img19.png"
+    },
+    {
+        "id": 20,
+        "nombre": "Macetas",
+        "precio": 315.00,
+        "ThumbnailUrl": "http://warhammer40k.free.nf/img/politecaPop_img/img20.png"
+    }
+]
